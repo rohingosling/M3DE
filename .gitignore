@@ -1,0 +1,7 @@
+# Build artifacts
+*.OBJ
+*.EXE
+*.LOG
+
+# Backups
+Backup/
