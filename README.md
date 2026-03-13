@@ -1,6 +1,6 @@
 # M3DE (Micro-3D Engine)
 
-A 3D graphics engine for writing mode-13h demos for DOS, written in C++ back in the 90s. Built on top of the [GFX-13](https://github.com/rohingosling/gfx-13) VGA Mode 13h 2D graphics library. M3DE is short for Micro-3D-Engine.
+A 3D graphics engine for writing mode-13h demos for DOS, written in C++ back in the 90s. Built on top of the [GFX-13](https://github.com/rohingosling/gfx-13) VGA Mode 13h 2D graphics library.
 
 Features:
 - Procedural 3D object generation (box, icosphere, geosphere, hemisphere, cylinder, cone, tube, torus, lamina).
