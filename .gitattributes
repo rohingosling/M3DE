@@ -1,5 +1,0 @@
-# Exclude from GitHub release source archives
-.gitignore      export-ignore
-.gitattributes  export-ignore
-CLAUDE.md       export-ignore
-prompt.md       export-ignore
