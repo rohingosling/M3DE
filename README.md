@@ -5,7 +5,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![DOS](https://img.shields.io/badge/DOS-000000?style=flat&logo=windows&logoColor=white)
 
-A 3D graphics engine for writing mode-13h demos for DOS, written in C++ back in the 90s. Built on top of the [GFX-13](https://github.com/rohingosling/GFX13-v1-ASM) VGA Mode 13h 2D graphics library (v2, C with inline assembly).
+A 3D graphics engine for writing mode-13h demos for DOS, with elements written in C++, C, and x86 assembly language back in the 90s. Built on top of the [GFX-13](https://github.com/rohingosling/GFX13-v1-ASM) VGA Mode 13h 2D graphics library (v2, C with inline assembly).
 
 Features:
 - Procedural 3D object generation (box, icosphere, geosphere, hemisphere, cylinder, cone, tube, torus, lamina).
